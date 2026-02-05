@@ -1,6 +1,6 @@
 # MINI_AI_CHATBOT
 A Simple AI chatbot using core python
-# MINI AI CHATBOT
+
 ### Simple AI Chatbot using Python Core Features
 
 ##  Project Overview
